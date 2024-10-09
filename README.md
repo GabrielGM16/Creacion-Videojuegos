@@ -39,7 +39,7 @@
     * > [Prototipo 1](https://github.com/GabrielGM16/Creacion-Videojuegos/blob/main/Prototipos/Prototipo1Gabriel.unitypackage)
   
   * **Capturas**
-    * > [Capturas](https://github.com/GabrielGM16/Creacion-Videojuegos/blob/main/Prototipos/Prototipo1Gabriel.unitypackage)
+    * > [Capturas](https://github.com/GabrielGM16/Creacion-Videojuegos/blob/main/Capturas.docx)
 
 * Lección 2
   * **Prototipo 2**
