@@ -34,34 +34,41 @@
 
 ## Código Fuente
 
-## Código Fuente
-
 * Lección 1
-  * > [Tutorial](https://github.com/GabrielGM16/Creacion-Videojuegos/blob/main/Prototipos/Prototipo1Gabriel.unitypackage) 
-  * > [Laboratorio](https://enlace-al-laboratorio.com)
-  * > [Desafío](https://enlace-al-desafio.com)
-  * > [Prueba](https://enlace-a-la-prueba.com)
+  ### Prototipo 1
+  * > [Prototipo 1](https://github.com/GabrielGM16/Creacion-Videojuegos/blob/main/Prototipos/Prototipo1Gabriel.unitypackage)
+
+  ### Capturas
+  * > [Capturas](https://github.com/GabrielGM16/Creacion-Videojuegos/blob/main/Prototipos/Prototipo1Gabriel.unitypackage)
 
 * Lección 2
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  ### Prototipo 2
+  * > [Prototipo 2](#)
+
+  ### Capturas
+  * > [Capturas](#)
+
 * Lección 3
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  ### Prototipo 3
+  * > [Prototipo 3](#)
+
+  ### Capturas
+  * > [Capturas](#)
+
 * Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  ### Prototipo 4
+  * > [Prototipo 4](#)
+
+  ### Capturas
+  * > [Capturas](#)
+
 * Lección 5
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  ### Prototipo 5
+  * > [Prototipo 5](#)
+
+  ### Capturas
+  * > [Capturas](#)
+
 * VideoJuego
 
 ## Planificación
