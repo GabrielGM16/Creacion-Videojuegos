@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://peru.unir.net/wp-content/uploads/sites/2/2022/03/videojuegos_1920x1080.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://wwwhatsnew.com/wp-content/uploads/2023/08/tec-362.jpg" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
